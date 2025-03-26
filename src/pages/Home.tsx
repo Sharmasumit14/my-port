@@ -15,12 +15,12 @@ const Home = () => {
   return (
     <>
       <Helmet>
-        <title>Your Portfolio - Home</title>
+        <title>Sumit Sharma</title>
         <meta
           name="description"
           content="Welcome to my portfolio website. I'm a passionate developer showcasing my projects and experience."
         />
-        <meta property="og:title" content="Your Portfolio - Home" />
+        <meta property="og:title" content="Sumit Sharma" />
         <meta
           property="og:description"
           content="Welcome to my portfolio website. I'm a passionate developer showcasing my projects and experience."
