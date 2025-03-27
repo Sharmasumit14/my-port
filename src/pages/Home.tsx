@@ -52,7 +52,7 @@ const Home = () => {
             mb: 2,
           }}
         >
-          Hi, I'm [Your Name]
+          Hi, I'm Sumit Sharma
         </Typography>
         <Typography
           variant="h2"
@@ -63,7 +63,7 @@ const Home = () => {
             mb: 4,
           }}
         >
-          Full Stack Developer
+          Frontend Developer
         </Typography>
         <Button
           component={Link}

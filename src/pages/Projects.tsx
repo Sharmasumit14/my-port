@@ -25,7 +25,7 @@ interface Project {
 const projects: Project[] = [
   {
     id: 1,
-    title: "Project 1",
+    title: "CoGig",
     description:
       "A brief description of your first project and its key features.",
     image: "https://via.placeholder.com/400x300",
@@ -35,7 +35,27 @@ const projects: Project[] = [
   },
   {
     id: 2,
-    title: "Project 2",
+    title: "Glacial Adventures",
+    description:
+      "A brief description of your second project and its key features.",
+    image: "https://via.placeholder.com/400x300",
+    technologies: ["Next.js", "MongoDB", "Express"],
+    githubUrl: "https://github.com/yourusername/project2",
+    liveUrl: "https://project2.com",
+  },
+  {
+    id: 3,
+    title: "Vizygo",
+    description:
+      "A brief description of your second project and its key features.",
+    image: "https://via.placeholder.com/400x300",
+    technologies: ["Next.js", "MongoDB", "Express"],
+    githubUrl: "https://github.com/yourusername/project2",
+    liveUrl: "https://project2.com",
+  },
+  {
+    id: 4,
+    title: "Cobuild",
     description:
       "A brief description of your second project and its key features.",
     image: "https://via.placeholder.com/400x300",
@@ -50,7 +70,7 @@ const Projects = () => {
   return (
     <>
       <Helmet>
-        <title>Your Portfolio - Projects</title>
+        <title>Sumit Sharma - Projects</title>
         <meta
           name="description"
           content="Explore my portfolio of web development projects showcasing my skills and expertise."
