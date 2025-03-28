@@ -102,7 +102,7 @@ const Projects = () => {
             mx: "auto",
           }}
         >
-          Here are some of the projects I've worked on. Each project
+          Here are some of the projects I've worked on.Each project
           demonstrates different aspects of my skills and expertise.
         </Typography>
       </Box>
