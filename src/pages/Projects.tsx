@@ -154,7 +154,7 @@ const Projects = () => {
                     target="_blank"
                     rel="noopener noreferrer"
                   >
-                    Live Demo
+                    Demo  here
                   </Button>
                 </Box>
               </CardContent>
