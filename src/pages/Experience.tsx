@@ -38,12 +38,12 @@ const Experience = () => {
   return (
     <>
       <Helmet>
-        <title>Your Portfolio - Experience</title>
+        <title>Sumit Portfolio - Experience</title>
         <meta
           name="description"
           content="Explore my professional experience and career journey in software development."
         />
-        <meta property="og:title" content="Your Portfolio - Experience" />
+        <meta property="og:title" content="SumitPortfolio - Experience" />
         <meta
           property="og:description"
           content="Explore my professional experience and career journey in software development."
